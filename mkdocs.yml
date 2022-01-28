@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: Learning French
+site_description: Learing French site
+site_author: Queen of muntains
+pages:
+- Home: index.md
+- About: about.md
+theme: readthedocs
+logo: img/logo.png
+
+# Options
+extra:
+ logo: 'img/logo.png'
+
+#Copyright
+copyright: 'Copyright &copy; 2022 Queen of muntains'
+
+
